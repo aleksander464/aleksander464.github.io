@@ -319,6 +319,7 @@ body {
   float: left;
   display: inline-block;
   text-align: center;
+  items-align: center;
   font-size: 14px;
 }
 
